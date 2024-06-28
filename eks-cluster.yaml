@@ -18,8 +18,8 @@ managedNodeGroups:
     instanceType: t3.medium
     labels: { role: builders }
     spot: true
-    desiredCapacity: 2
-    minSize: 2
+    desiredCapacity: 1
+    minSize: 1
     maxSize: 4
     volumeSize: 30
     availabilityZones: ["us-west-2a"]

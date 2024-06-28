@@ -397,6 +397,7 @@ controller:
     - workflow-aggregator:596.v8c21c963d92d
     - git:5.2.2
     - configuration-as-code:1807.v0175eda_00a_20
+    - hp-application-automation-tools-plugin:24.1.0
 
   # If set to false, Jenkins will download the minimum required version of all dependencies.
   # -- Download the minimum required version or latest version of all dependencies
